@@ -1,4 +1,4 @@
-# QuizForge AI
+# Quiz Geneartor AI
 
 AI turns uploaded study material into focused multiple-choice practice.
 
@@ -26,7 +26,6 @@ Windows:
 pip install -r requirements.txt
 ```
 
-
 Then:
 
 ```bash
@@ -35,6 +34,4 @@ streamlit run app.py
 
 ## Deployment
 
-For Streamlit Community Cloud, deploy this repository .
-
-
+For Streamlit Community Cloud, deploy this repository.
